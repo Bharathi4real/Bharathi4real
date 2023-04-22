@@ -3,11 +3,7 @@
 <h1 align="center">Hi, I'm Kaviyabharathi</h1>
 <p align="center">
   <a href="https://github.com/Bharathi4real" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
-  <a href="https://www.linkedin.com/in/kaviyabharathi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
-  <br/>
-  <span align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bharathi4real&style=for-the-badge" />
-  </span>
+  <a href="https://www.linkedin.com/in/kaviyabharathi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>  
 </p> 
 
 <div style="display:flex; justify-content:center; align-items:center; flex-direction:column">
@@ -40,8 +36,19 @@ Languages spoken: <img width="15" height="15" src="https://www.growthbunker.dev/
     
   </P>
 </div>
+</br>
+
+## Stats
+<div align="center" id="stats">
+  <p>
+    
+![Bharathi4real's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathi4real&theme=great-gatsby&hide_border=true) ![Bharathi4real's Stats](https://github-readme-stats.vercel.app/api?username=Bharathi4real&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+  
+  </p>
+ </div>
+
 
 
   
 ---
-`Last updated: 22 April 2023`
+`Last updated: 23 April 2023`
