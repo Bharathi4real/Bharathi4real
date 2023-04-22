@@ -47,6 +47,8 @@ Languages spoken: <img width="15" height="15" src="https://www.growthbunker.dev/
 <div align="center">
   <p>Show some ❤️ by starring ⭐ some of my repositories!</p>
   <a href="https://github.com/Bharathi4real"><img src="https://img.shields.io/github/followers/Bharathi4real.svg?label=GitHub&style=social" alt="GitHub">
-  Last updated: $LAST_UPDATED
+  
+  Last updated: ${{ env.LAST_UPDATED }}
 
 </div>
+
