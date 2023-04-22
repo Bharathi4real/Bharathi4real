@@ -12,7 +12,8 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Update Last Updated Date
-        run: echo "LAST_UPDATED=$(date -u '+%Y-%m-%d')" >> $GITHUB_ENV
+        run: |
+          echo "LAST_UPDATED=$(date -u '+%Y-%m-%d')" >> $GITHUB_ENV
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
