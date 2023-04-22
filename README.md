@@ -1,7 +1,9 @@
 
-[<img src="./assets/Bharathi.gif" height = "500" width="1920" />](https://github.com/Bharathi4real/Bharathi4real/blob/main/assets/Bharathi.gif)
 
-### Hi there 👋
+  ![Visitor Count](https://profile-counter.glitch.me/{Bharathi4real}/count.svg)
+
+
+<h1 align="center">I am Kaviyabharathi <h1>
 
 <!--
 **Bharathi4real/Bharathi4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
