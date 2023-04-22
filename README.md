@@ -1,3 +1,6 @@
+
+[<img src="./assets/Bharathi.gif" height = "500" width="1920" />](https://github.com/Bharathi4real/Bharathi4real/blob/main/assets/Bharathi.gif)
+
 ### Hi there 👋
 
 <!--
