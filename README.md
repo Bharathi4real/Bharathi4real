@@ -34,11 +34,10 @@ Languages spoken: <img width="15" height="15" src="https://www.growthbunker.dev/
 ## Tools and Services
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
    
-## Stats
-![Bharathi4real's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bharathi4real&theme=great-gatsby&hide_border=true) ![Bharathi4real's Stats](https://github-readme-stats.vercel.app/api?username=Bharathi4real&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
-    
   </P>
 </div>
+
+
 
 
 
