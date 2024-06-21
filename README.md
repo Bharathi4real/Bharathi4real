@@ -40,4 +40,4 @@ Languages spoken: <img width="15" height="15" src="https://www.growthbunker.dev/
 
 
 ---
-`Last updated: 23 April 2023`
+`Last updated: 23 May 2024`
