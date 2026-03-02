@@ -45,6 +45,7 @@ I work closely across the stack, from API design to UI/UX implementation, with a
 
 ### 🧠 State Management
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
 ![Jotai](https://img.shields.io/badge/Jotai-1E4C3C?style=for-the-badge&logoColor=white)
 
